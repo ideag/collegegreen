@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: College Green\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Jul 28 2016 14:18:23 GMT+0300 (EEST)\n"
+"PO-Revision-Date: Thu Jul 28 2016 14:22:44 GMT+0300 (EEST)\n"
+"Last-Translator: MD katedra <a.liuiza@kauko.lt>\n"
+"Language-Team: \n"
+"Language: Lithuanian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: lt_LT\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: /loop-news.php:2
+msgid "Latest News"
+msgstr "Naujienos"
+
+#: /loop-news.php:30 /archive.php:31 /archive-event.php:51
+msgid "Read more"
+msgstr "Plačiau"
+
+#: /single-event.php:35 /single.php:20
+msgid "By:"
+msgstr "Autorius:"
+
+#: /single-event.php:35 /single.php:20
+msgid "Posted on:"
+msgstr "Paskelbta:"
+
+#: /single-event.php:42
+msgid "Event Information"
+msgstr "Renginio informacija"
+
+#: /single-event.php:43
+msgid "Begins"
+msgstr "Pradžia"
+
+#: /single-event.php:44
+msgid "Ends"
+msgstr "Pabaiga"
+
+#: /single-event.php:45
+msgid "Location"
+msgstr "Vieta"
+
+#: /functions.php:17
+#, php-format
+msgid "Copyright @ %3$s by <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+#: /functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: /functions.php:48
+msgid "Left Sidebar"
+msgstr ""
+
+#: /functions.php:52
+msgid "Right Sidebar"
+msgstr ""
+
+#: /functions.php:56
+msgid "Archive Sidebar"
+msgstr ""
+
+#: /functions.php:60
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: /functions.php:64
+msgid "Footer 1 Sidebar"
+msgstr ""
+
+#: /functions.php:72
+msgid "Footer 2 Sidebar"
+msgstr ""
+
+#: /functions.php:80
+msgid "Footer 3 Sidebar"
+msgstr ""
+
+#: /functions.php:167
+msgid "College Green Settings"
+msgstr ""
+
+#: /functions.php:168
+msgid "Basic theme settings"
+msgstr ""
+
+#: /functions.php:176
+msgid "News Category"
+msgstr ""
+
+#: /functions.php:186
+msgid "Slider Category"
+msgstr ""
+
+#: /functions.php:196
+msgid "Events Category"
+msgstr ""
+
+#: /functions.php:204
+msgid "Footer Settings"
+msgstr ""
+
+#: /functions.php:205
+msgid "Open theme footer settings"
+msgstr ""
+
+#: /functions.php:213
+msgid "Footer text"
+msgstr ""
+
+#: /functions.php:222
+msgid "Footer link"
+msgstr ""
+
+#: /functions.php:231
+msgid "Footer name"
+msgstr ""
+
+#: /functions.php:295
+msgid "Sidebar"
+msgstr ""
+
+#: /functions.php:297
+msgid "A sidebar"
+msgstr ""
+
+#: /functions.php:350
+msgid "<i class=\"glyphicon glyphicon-chevron-left\"></i>"
+msgstr ""
+
+#: /functions.php:351
+msgid "<i class=\"glyphicon glyphicon-chevron-right\"></i>"
+msgstr ""
+
+#: /functions.php:396
+msgid "First"
+msgstr ""
+
+#: /functions.php:398
+msgid "previous"
+msgstr ""
+
+#: /functions.php:413
+msgid "next"
+msgstr ""
+
+#: /functions.php:417
+msgid "Last"
+msgstr ""
+
+#: /loop-showcase.php:2
+msgid "Showcase"
+msgstr "Studentų darbai"
+
+#: /includes/widget-links.php:4
+msgid "Links widget for College Green theme"
+msgstr ""
+
+#: /includes/widget-links.php:5
+msgid "[CG] Links"
+msgstr ""
+
+#: /includes/widget-links.php:58 /includes/widget-footer-contact.php:48 
+#: /includes/widget-events.php:75
+msgid "Title:"
+msgstr ""
+
+#: /includes/widget-links.php:61
+msgid "Category:"
+msgstr ""
+
+#: /includes/widget-links.php:66 /includes/widget-events.php:78
+msgid "How many posts to show:"
+msgstr ""
+
+#: /includes/widget-footer-contact.php:4
+msgid "Contacts widget for College Green theme"
+msgstr ""
+
+#: /includes/widget-footer-contact.php:5
+msgid "[CG] Contacts"
+msgstr ""
+
+#: /includes/widget-footer-contact.php:51
+msgid "Address:"
+msgstr ""
+
+#: /includes/widget-footer-contact.php:54
+msgid "Phone no.:"
+msgstr ""
+
+#: /includes/widget-footer-contact.php:57
+msgid "Email Address:"
+msgstr ""
+
+#: /includes/widget-events.php:5
+msgid "Events widget for College Green theme"
+msgstr ""
+
+#: /includes/widget-events.php:6
+msgid "[CG] Events"
+msgstr ""
+
+#: /includes/widget-events.php:57
+msgid "All events"
+msgstr "Visi įvykiai"
+
+#: /header.php:57
+msgid "Toggle navigation"
+msgstr ""
+
+#. Name of the theme
+msgid "College Green"
+msgstr ""
